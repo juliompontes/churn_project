@@ -30,7 +30,7 @@ Uma forma de comprovar a importância desse trabalho seria, por exemplo, medir a
 
 ### Tecnologias
 
-- [x] Python - bibliotecas **Pandas** e **Numpy** para trabalhar com os dados; **MatPlotLib**, **Seaborn** e **Plotly** para visualização dos dados; e **Scikit-learn**, **SciPy** e **XGBoost** para a aplicação do modelo de Machine Learning e a análise das métricas de resultados.
+- [x] Python - bibliotecas **Pandas** e **Numpy** para trabalhar com os dados; **MatPlotLib**, **Seaborn** e **Plotly** para visualização dos dados; e **Scikit-learn**, **SciPy** e **XGBoost** para a aplicação do modelo de Machine Learning e a análise das métricas de resultados
 - [x] Jupyter Notebook
 
 ### No que você deve ficar de olho :eyes:
