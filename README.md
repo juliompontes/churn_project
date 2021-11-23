@@ -17,7 +17,7 @@ Principalmente pelos melhores resultados nas métricas de *recall* e *curva ROC*
 
 Essa é uma possível utilização da **Análise Exploratória de Dados** e de **Machine Learning** para o benefício de um negócio real. Nesse sentido, o banco poderia se beneficiar de uma menor taxa de churn, consequentemente uma maior taxa retenção de clientes, o que poderia levar ao aumento do faturamento, à melhoria da imagem do banco, à manutenção da carteira de clientes e assim por diante.
 
-## Como esse projeto pode ser aplicado para resolver um problema?
+### Como esse projeto pode ser aplicado para resolver um problema?
 
 Tendo em mente que o problema em questão era como o banco poderia melhorar a sua taxa de retenção de clientes, através da redução do churn, o projeto gerou 3 resultados concretos:
 1. entendimento profundo sobre as características dos clientes que deram churn, obtido através da análise exploratória;
